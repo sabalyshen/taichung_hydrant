@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Bot 執行時產生
+chat_states/
+saved_maps/
+hydrants_cache.json
+map_output.png
+map_interactive.html
+
+# Leaflet 快取（自動從 CDN 下載）
+leaflet_css.txt
+leaflet_js.txt
+
+# 個人資料
+*.kml
+!data/sample.kml

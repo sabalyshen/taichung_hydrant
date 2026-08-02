@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>消防栓（範例資料）</name>
+  <Placemark>
+    <name>00001</name>
+    <description><![CDATA[消防栓編號: 00001<br>自訂編號: <br>單位名稱: 範例分隊<br>種類: 地下<br>區鄉鎮市名稱: 範例區<br>消防栓位置: 範例路一段100號前<br>經度: 120.680000<br>緯度: 24.100000<br>水公司單位名稱: 範例服務所]]></description>
+    <ExtendedData>
+      <Data name="消防栓編號"><value>00001</value></Data>
+      <Data name="單位名稱"><value>範例分隊</value></Data>
+      <Data name="種類"><value>地下</value></Data>
+      <Data name="區鄉鎮市名稱"><value>範例區</value></Data>
+      <Data name="消防栓位置"><value>範例路一段100號前</value></Data>
+      <Data name="經度"><value>120.680000</value></Data>
+      <Data name="緯度"><value>24.100000</value></Data>
+      <Data name="水公司單位名稱"><value>範例服務所</value></Data>
+    </ExtendedData>
+    <Point><coordinates>120.680000,24.100000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>00002</name>
+    <description><![CDATA[消防栓編號: 00002<br>自訂編號: <br>單位名稱: 範例分隊<br>種類: 地上<br>區鄉鎮市名稱: 範例區<br>消防栓位置: 範例路二段200號旁<br>經度: 120.681000<br>緯度: 24.101000<br>水公司單位名稱: 範例服務所]]></description>
+    <ExtendedData>
+      <Data name="消防栓編號"><value>00002</value></Data>
+      <Data name="單位名稱"><value>範例分隊</value></Data>
+      <Data name="種類"><value>地上</value></Data>
+      <Data name="區鄉鎮市名稱"><value>範例區</value></Data>
+      <Data name="消防栓位置"><value>範例路二段200號旁</value></Data>
+      <Data name="經度"><value>120.681000</value></Data>
+      <Data name="緯度"><value>24.101000</value></Data>
+      <Data name="水公司單位名稱"><value>範例服務所</value></Data>
+    </ExtendedData>
+    <Point><coordinates>120.681000,24.101000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>00003</name>
+    <description><![CDATA[消防栓編號: 00003<br>自訂編號: <br>單位名稱: 範例分隊<br>種類: 地下<br>區鄉鎮市名稱: 範例區<br>消防栓位置: 範例路三段300號對面<br>經度: 120.682000<br>緯度: 24.102000<br>水公司單位名稱: 範例服務所]]></description>
+    <ExtendedData>
+      <Data name="消防栓編號"><value>00003</value></Data>
+      <Data name="單位名稱"><value>範例分隊</value></Data>
+      <Data name="種類"><value>地下</value></Data>
+      <Data name="區鄉鎮市名稱"><value>範例區</value></Data>
+      <Data name="消防栓位置"><value>範例路三段300號對面</value></Data>
+      <Data name="經度"><value>120.682000</value></Data>
+      <Data name="緯度"><value>24.102000</value></Data>
+      <Data name="水公司單位名稱"><value>範例服務所</value></Data>
+    </ExtendedData>
+    <Point><coordinates>120.682000,24.102000,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>
